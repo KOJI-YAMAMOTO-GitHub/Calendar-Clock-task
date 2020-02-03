@@ -44,10 +44,17 @@
         flex-direction:column;
     }
     
-    #taskarea{
-        height: 60%;
-        width: 30%;
-        background-color:cadetblue;
+    #calendararea{
+        width: 100%;
+        background-color: blue;
     }
-    
+    #clockarea{
+        width: 100%;
+        background-color: chartreuse;
+    }
+    #taskarea{
+        width: 100%;
+        background-color:darkblue;
+    }
+        
 }
