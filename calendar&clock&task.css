@@ -39,7 +39,7 @@
         width: 99vw;
         height:98vh;
         /* padding:10px; */
-        justify-content:space-around;
+        /* justify-content:space-around; */
         align-items: center;
         flex-direction:column;
     }
@@ -48,7 +48,7 @@
     #taskarea{
         height: 60%;
         width: 30%;
-        background-color:darkgoldenrod;
+        background-color:cadetblue;
     }
     
 }
