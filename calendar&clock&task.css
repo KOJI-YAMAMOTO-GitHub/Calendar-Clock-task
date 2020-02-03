@@ -32,6 +32,19 @@
     background-color: crimson;
 }
 @media screen and (max-width: 480px){
+
+    #flexbox{
+        display:flex;
+        background:#ddd;
+        width: 99vw;
+        height:98vh;
+        /* padding:10px; */
+        justify-content:space-around;
+        align-items: center;
+        flex-direction:column;
+    }
+     
+ 
     #taskarea{
         height: 60%;
         width: 30%;
